@@ -6,7 +6,7 @@ import pickle
 import random
 from generate_hol_dataset import Node
 MAX_DEPTH = 100
-MAX_SEQUENCE = 1600
+MAX_SEQUENCE = 610
 
 
 
