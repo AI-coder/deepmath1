@@ -3,7 +3,7 @@ import numpy as np
 from data_loader import Data_Loader
 from generate_hol_dataset import Node
 BATCH_SIZE = 8
-SEQUENCE_NUM = 1600
+SEQUENCE_NUM = 610
 VOCAB_SIZE = 2033+1
 MAX_DEPTH = 100
 MAX_TREE_SIZE = 56+1
